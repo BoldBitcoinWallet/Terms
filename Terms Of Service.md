@@ -20,5 +20,5 @@ You agree to use the App in compliance with local laws and regulations. We are n
 We may update these Terms periodically. Continued use of the App means acceptance of the revised Terms.
 
 **7. Contact Us**  
-For any questions, please contact us at [Discord Support](https://discord.gg/FmZnbbBt).
+For any questions, please contact us at [Discord Support](https://discord.gg/p4ectmVtJ2).
 
