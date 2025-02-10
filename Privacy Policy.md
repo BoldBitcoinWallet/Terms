@@ -20,4 +20,4 @@ The App may interact with third-party APIs (e.g., for retrieving Bitcoin prices 
 We may update this Privacy Policy from time to time. Any changes will be reflected on this page.
 
 **7. Contact Us**  
-If you have any questions, please contact us at [Discord Support](https://discord.gg/FmZnbbBt).
+If you have any questions, please contact us at [Discord Support](https://discord.gg/p4ectmVtJ2).
