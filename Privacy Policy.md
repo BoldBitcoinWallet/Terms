@@ -32,4 +32,5 @@ We may update this Privacy Policy periodically. Updates will be posted on this p
 
 **8. Contact Us**
 
-For any questions regarding privacy, please contact us via [Discord Support](https://discord.gg/p4ectmVtJ2).
+For more info, contact us at [info@boldbitcoinwallet.com](mailto:info@boldbitcoinwallet.com).
+
