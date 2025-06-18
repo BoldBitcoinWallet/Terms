@@ -36,4 +36,4 @@ We may modify these Terms at any time. Continued use of the App after such chang
 
 **9. Contact Us**
 
-For questions or support, contact us via [Discord Support](https://discord.gg/p4ectmVtJ2).
+For more info, contact us at [info@boldbitcoinwallet.com](mailto:info@boldbitcoinwallet.com).
