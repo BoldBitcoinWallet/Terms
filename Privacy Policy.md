@@ -1,23 +1,35 @@
 # Privacy Policy
-_Last Updated: [10 Feb 2025]_
 
-**1. Introduction**  
-Welcome to [BoldBitcoinWallet] ("we," "our," or "us"). This Privacy Policy explains how we handle your data when you use our non-custodial Bitcoin wallet application ("App").
+*Last Updated: 18 June 2025*
 
-**2. No Data Collection**  
-Our App does not collect, store, or transmit any personal data, financial information, or private keys. Your wallet and transactions are fully managed on your devices.
+**1. Introduction**
 
-**3. No Third-Party Tracking**  
-We do not use analytics tools, tracking services, or collect user data for marketing purposes.
+Welcome to Bold Bitcoin Wallet ("we," "our," or "us"). This Privacy Policy explains how we handle your data when you use our non-custodial Bitcoin wallet application ("App").
 
-**4. Security and Encryption**  
-All cryptographic operations are performed locally on your devices. Private keys never leave your device, and we do not have access to or recover them.
+**2. No Personal Data Collection**
 
-**5. Third-Party Services**  
-The App may interact with third-party APIs (e.g., for retrieving Bitcoin prices or blockchain data). However, we do not share any identifiable user information with these services.
+Our App does **not** collect, store, or transmit any personal data, financial information, or private keys. All wallet data and transactions are fully managed locally on your device.
 
-**6. Changes to This Policy**  
-We may update this Privacy Policy from time to time. Any changes will be reflected on this page.
+**3. No Third-Party Tracking or Analytics**
 
-**7. Contact Us**  
-If you have any questions, please contact us at [Discord Support](https://discord.gg/p4ectmVtJ2).
+We do **not** use analytics tools, tracking services, advertising networks, or collect any user data for marketing or profiling.
+
+**4. Local Security**
+
+All cryptographic operations occur locally on your device. Your private keys never leave your device, and we have no access to or control over them.
+
+**5. Interaction with Third-Party Services**
+
+The App may connect to third-party APIs (e.g., for Bitcoin price feeds or blockchain data). We do **not** share any personally identifiable information with these services. All requests are anonymous and data flows directly between your device and these services.
+
+**6. Data Retention**
+
+Since no personal data is collected, we do not store or retain any user information.
+
+**7. Changes to This Policy**
+
+We may update this Privacy Policy periodically. Updates will be posted on this page with an updated revision date.
+
+**8. Contact Us**
+
+For any questions regarding privacy, please contact us via [Discord Support](https://discord.gg/p4ectmVtJ2).
