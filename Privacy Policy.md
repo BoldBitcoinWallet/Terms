@@ -26,11 +26,18 @@ The App may connect to third-party APIs (e.g., for Bitcoin price feeds or blockc
 
 Since no personal data is collected, we do not store or retain any user information.
 
-**7. Changes to This Policy**
+**7. Browser Extension (Chrome)**
+
+The Bold Bitcoin Wallet browser extension operates as a watch-only wallet.
+The extension does not collect, transmit, or store private keys, key shares, or signing material. All transaction signing and broadcasting are performed by co-signer Bold Wallet mobile devices.
+The extension may locally store non-sensitive data such as watch-only wallet information, user preferences, PIN-based privacy settings, and user-configured backend endpoints (e.g. self-hosted mempool.space instances).
+No personal data is collected, sold, or shared with third parties.
+
+**8. Changes to This Policy**
 
 We may update this Privacy Policy periodically. Updates will be posted on this page with an updated revision date.
 
-**8. Contact Us**
+**9. Contact Us**
 
 For more info, contact us at [info@boldbitcoinwallet.com](mailto:info@boldbitcoinwallet.com).
 
